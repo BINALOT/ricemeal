@@ -79,7 +79,7 @@ const products = [
     },
     {
         id: 13,
-        image: 'Hungarian.jpg',
+        image: 'hungarian.jpg',
         title: 'Hungarian',
         price: 130,
     }
